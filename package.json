@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "modbus-serial": "^8.0.17",
+    "mysql2": "^3.10.3",
+    "sequelize": "^6.37.3",
     "socket.io": "^4.7.5"
   }
 }
